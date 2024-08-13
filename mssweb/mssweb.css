@@ -1,0 +1,25 @@
+.first{
+    text-align: center;
+    padding: 40px;
+    color: rgb(24, 0, 0);
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    
+}
+.main{
+    color: blue;
+    
+}
+.second{
+    text-align: center;
+    padding: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.last{
+    text-align: center;
+    padding: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    
+}
