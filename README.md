@@ -1,2 +1,2 @@
 # MSSWEB
-A Decentralized AI browser
+Whitepaper for Decentralized AI browser
